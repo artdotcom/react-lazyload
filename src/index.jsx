@@ -12,6 +12,7 @@ const defaultBoundingClientRect = { top: 0, right: 0, bottom: 0, left: 0, width:
 const LISTEN_FLAG = 'data-lazyload-listened';
 const listeners = [];
 let pending = [];
+let stuff = [];
 
 // try to handle passive events
 let passiveEventSupported = false;
