@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasonslyvia/react-lazyload.git"
+    "url": "https://github.com/artdotcom/react-lazyload.git"
   },
   "keywords": [
     "react-component",
@@ -22,9 +22,9 @@
   "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jasonslyvia/react-lazyload/issues"
+    "url": "https://github.com/artdotcom/react-lazyload/issues"
   },
-  "homepage": "https://github.com/jasonslyvia/react-lazyload",
+  "homepage": "https://github.com/artdotcom/react-lazyload",
   "dependencies": {
     "prop-types": "^15.5.6"
   },
